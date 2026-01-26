@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>CV - Febiana Anna</title>
+  <link href="../Flat-1.0.0/assets/css/bootstrap-5.0.0-alpha-2.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+<div class="container mt-5 mb-5">
+  <div class="card p-4 shadow">
+    
+    <h2 class="fw-bold">Febiana Anna</h2>
+    <p class="text-muted">Siswa SMK | PPLG</p>
+    <hr>
+
+    <h5>Profil</h5>
+    <p>
+      Saya adalah siswa SMK jurusan Pengembangan Perangkat Lunak dan Gim (PPLG)
+      yang memiliki minat pada pengembangan website dan sistem informasi.
+    </p>
+
+    <h5>Pendidikan</h5>
+    <ul>
+      <li>SMK – Jurusan PPLG</li>
+    </ul>
+
+    <h5>Keahlian</h5>
+    <ul>
+      <li>HTML & CSS</li>
+      <li>Bootstrap</li>
+      <li>PHP & MySQL</li>
+      <li>CRUD System</li>
+    </ul>
+
+    <h5>Project</h5>
+    <ul>
+      <li>Website Profile Pribadi</li>
+      <li>Aplikasi CRUD PHP MySQL</li>
+      <li>Project Tugas Sekolah</li>
+    </ul>
+
+    <h5>Kontak</h5>
+    <p>Email: yourname@gmail.com</p>
+
+    <div class="mt-4">
+      <button onclick="window.print()" class="btn btn-primary">
+        Download / Print CV
+      </button>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>
